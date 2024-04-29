@@ -3,7 +3,7 @@ import pandas as pd
 
 def home(dataframe):
     st.title('Cargatron')
-    st.image('img\puntos-recarga-madrid.jpg',caption='Coche cargando')
+    st.image('img/puntos-recarga-madrid.jpg',caption='Coche cargando')
     with st.expander('¿Quieres saber más?'):
         st.write('Ante el problema climático al que nos enfrentamos, el coche eléctrico se \
                 plantea como una solución posible. Queremos facilitarte que encuentres tu puesto de carga más cercano')
