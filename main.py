@@ -20,5 +20,4 @@ match opcion:
     case 'Filtros':
         menu_filtros(df)
 
-
 st.balloons()
